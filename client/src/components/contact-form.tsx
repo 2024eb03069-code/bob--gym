@@ -21,7 +21,7 @@ export function ContactForm() {
           href="https://wa.me/917061688050"
           target="_blank"
           rel="noopener noreferrer"
-         className="inline-flex items-center justify-center bg-green-600 hover:bg-green-700 text-white font-semibold px-6 py-3 rounded-lg"
+         className="inline-flex items-center justify-center bg-emerald-600 hover:bg-emerald-700 text-white font-semibold px-6 py-3 rounded-lg"
 
           Chat on WhatsApp
         </a>
