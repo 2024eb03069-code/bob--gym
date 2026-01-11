@@ -1,0 +1,111 @@
+You are a professional front-end web developer.
+
+Build a COMPLETE STATIC gym website using ONLY:
+- HTML
+- CSS
+- JavaScript
+
+IMPORTANT:
+- This must be a STATIC website
+- No backend
+- No frameworks
+- No build tools
+- Must run by simply opening index.html
+- Hosting ready for Netlify / Cloudflare Pages / Vercel
+
+Project Name:
+BOB GYM – Official Website
+
+Business Details:
+Gym Name: BOB GYM
+Phone Number: 7061688050
+WhatsApp Number: 7061688050
+Instagram: https://instagram.com/bob_gym_nokha
+
+Gym Timings:
+Morning: 5:00 AM – 10:00 AM
+Evening: 3:00 PM – 9:00 PM
+
+Pricing Plans:
+• Monthly – ₹400
+• Quarterly (3 Months) – ₹1000
+• Half-Yearly (6 Months) – ₹1900 (Most Popular)
+• Yearly (12 Months) – ₹3600 (Best Value)
+
+WEBSITE STRUCTURE:
+
+1. HERO SECTION
+- Big bold heading: BOB GYM
+- Tagline: "Train Hard. Stay Strong. Build Discipline."
+- Buttons:
+  - Call Now (tel:7061688050)
+  - WhatsApp Chat (https://wa.me/7061688050)
+
+2. ABOUT SECTION
+- Short real content about Bob Gym
+- Focus on:
+  - Discipline
+  - Affordable pricing
+  - Local trusted gym
+  - Suitable for beginners and serious trainees
+
+3. TIMINGS SECTION
+- Two clean cards:
+  - Morning Timing
+  - Evening Timing
+
+4. PRICING SECTION
+- 4 pricing cards
+- Highlight:
+  - 6 Months as “Most Popular”
+  - 1 Year as “Best Value”
+- Each card must have:
+  - Price
+  - Duration
+  - “Join Now” button linking to WhatsApp
+
+5. FACILITIES SECTION
+- List:
+  - Strength Training
+  - Cardio Machines
+  - Clean Environment
+  - Beginner Friendly
+  - Affordable Fees
+
+6. CONTACT SECTION
+- Call Now button → tel:7061688050
+- WhatsApp Chat button → https://wa.me/7061688050
+- Instagram button → https://instagram.com/bob_gym_nokha
+
+7. FOOTER
+- Gym name
+- Timings
+- Phone number
+- Social links
+- Simple copyright text
+
+DESIGN REQUIREMENTS:
+- Dark gym theme (black / dark grey)
+- Red or yellow accent color
+- Bold modern fonts
+- Fully mobile responsive
+- Smooth scrolling
+- Hover effects on buttons & cards
+- Professional Indian gym look
+
+FILES REQUIRED:
+- index.html
+- style.css
+- script.js
+
+IMPORTANT RULES:
+- NO lorem ipsum
+- Content must feel real & local
+- Clean, readable, commented code
+- Website must be client-ready and sellable
+
+DELIVER:
+Provide full working code for:
+- index.html
+- style.css
+- script.js
